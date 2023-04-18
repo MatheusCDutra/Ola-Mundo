@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Projeto Versionado
+# Olá, Mundo!
+ Primeiro Projeto Versionado.
+
+ Repositório criado durante uma aula.
